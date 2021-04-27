@@ -6,9 +6,9 @@
             "model": {
                 "type": "neural_net",
                 "alpha": 1e-6,
-                "hidden_layer_sizes": "auto",
-                "learning_rate_init": 0.1,
-                "max_iter": 50000,
+                "hidden_layer_sizes": 5000,
+                "learning_rate_init": 0.01,
+                "max_iter": 100000,
                 "batch_size": 32,
                 "tol": 1e-6,
                 "n_iter_no_change": 250,
