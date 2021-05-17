@@ -20,15 +20,15 @@
 We predicted the fully vaccinated, the confirmed cases, and the fully vaccinated confirmed cases in different regions.
 ```markdown
 
-<li>Polynomial Regression</li>
-<li>Neural Network</li>
-<li>GRU</li>
+1. Polynomial Regression
+2. Neural Network
+3. GRU
 ```
 
 ### Library
 
 ```markdown
 
-<li>Jupyter Notebook</li>
-<li>Python3</li>
+1. Jupyter Notebook
+2. Python3
 ```
