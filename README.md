@@ -12,7 +12,7 @@
 
 - Data source: Kaggle
 - Date Range: start date: 2020-01-22, end date 2020-05-02
-- [DataSet snap](Data/data snap.png)
+- [DataSet snap](https://github.com/yanliang789/covid_19_trend/blob/main/Data/data%20snap.png)
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv)
 - [USA COVID-19 Vaccinations](https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations)
 
