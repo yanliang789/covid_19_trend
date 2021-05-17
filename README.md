@@ -18,17 +18,17 @@
 ### Models
 
 We predicted the fully vaccinated, the confirmed cases, and the fully vaccinated confirmed cases in different regions.
-`
+```markdown
 
 <li>Polynomial Regression</li>
 <li>Neural Network</li>
 <li>GRU</li>
-`
+```
 
 ### Library
 
-`
+```markdown
 
 <li>Jupyter Notebook</li>
 <li>Python3</li>
-`
+```
